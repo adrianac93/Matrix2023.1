@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Matrix.Logic/Matrix.Logic.csproj" />
+  <Project Path="Matrix.UI.Console/Matrix.UI.Console.csproj" />
+</Solution>
